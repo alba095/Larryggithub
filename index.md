@@ -8,3 +8,9 @@
 
 \*Larry plotter y el prisionero de firewall
 
+\*Larry Plotter y el malware de fuego
+
+\*Larry plotter y la orden de unix
+
+\*Larry plotter y el misterio del hacker
+
